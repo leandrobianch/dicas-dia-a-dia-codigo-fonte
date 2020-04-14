@@ -1,10 +1,10 @@
+using AngleSharp;
+using AngleSharp.Html.Dom;
+using AngleSharp.Io;
 using System.Net.Http;
 using System.Net.Http.Headers;
 using System.Threading;
 using System.Threading.Tasks;
-using AngleSharp;
-using AngleSharp.Dom.Html;
-using AngleSharp.Network;
 
 namespace RazorPagesProject.Tests.Helpers
 {
